@@ -1,33 +1,85 @@
 <div align="center">
 
-# Hi 👋, I'm Priyanshu Prasad Gupta
+# Hi there 👋 I'm Priyanshu Prasad Gupta
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&color=0A84FF&center=true&vCenter=true&width=700&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;DSA+%7C+LeetCode+Solver;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+### Java Backend Developer | Spring Boot Enthusiast | DSA Practitioner
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A84FF&center=true&vCenter=true&width=650&lines=Building+Scalable+Backend+Applications;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Data+Structures+%26+Algorithms;Learning+System+Design+and+Cloud;Always+Curious%2C+Always+Building" />
+
+<img src="https://komarev.com/ghpvc/?username=heartgupta2005-wq&label=Profile+Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Student
+I'm a **B.Tech Computer Science student** passionate about building scalable backend systems and solving algorithmic problems.
 
-💻 Passionate about Backend Development using Java & Spring Boot
+I enjoy designing REST APIs, working with Spring Boot, optimizing backend logic, and continuously improving my problem-solving skills through LeetCode.
 
-🚀 Currently building **RentMate** – Smart PG & Flat Rental Platform
+Currently focused on becoming a strong **Backend Software Engineer** while exploring scalable architectures and cloud technologies.
 
-📚 Solving Data Structures & Algorithms every day
+---
 
-🤖 Interested in AI, Machine Learning and Scalable Systems
+## 🚀 What I'm Working On
 
-🌱 Currently learning
+🏠 **RentMate** – Smart PG, Flat & Roommate Finder Platform
 
-- Spring Boot
-- Microservices
-- Docker
-- System Design
-- Redis
-- AWS
+📚 Solving LeetCode consistently to strengthen DSA
+
+☕ Building production-ready Spring Boot applications
+
+📖 Learning System Design, Docker, Redis & AWS
+
+---
+
+# 💼 Featured Projects
+
+## 🏠 RentMate
+
+A complete accommodation platform helping students discover verified PGs, rental properties and roommates.
+
+**Highlights**
+
+- Secure Authentication
+- Property Listings
+- Booking Requests
+- Reviews & Ratings
+- Admin Dashboard
+- REST APIs
+
+**Tech Stack**
+
+Spring Boot • MySQL • React • JWT • Maven
+
+---
+
+## 🤖 Client Churn Prediction System
+
+Machine Learning model that predicts customer churn and helps businesses retain valuable customers.
+
+**Tech**
+
+Python • Scikit-Learn • Pandas • Random Forest • XGBoost
+
+---
+
+## 🌾 AI Crop Recommendation System
+
+ML-powered recommendation system suggesting suitable crops based on environmental conditions.
+
+---
+
+## 🏛 Civic Accountability Engine
+
+Hackathon project focused on improving civic issue reporting and accountability through modern technologies.
+
+---
+
+## 💻 LeetCode & DSA
+
+A growing collection of Data Structures and Algorithms solutions implemented in Java with clean code and optimized approaches.
 
 ---
 
@@ -35,141 +87,114 @@
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
-
-![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
-
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs" />
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-
-![TailwindCSS](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
-
----
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
-
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,maven" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+# 📊 GitHub Statistics
 
-### 🏠 RentMate
+<p align="center">
 
-Smart PG, Flat & Roommate Finder Platform
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=heartgupta2005-wq&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-**Tech**
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heartgupta2005-wq&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Spring Boot • MySQL • REST API • JWT • React
-
----
-
-### 🤖 Client Churn Prediction
-
-Machine Learning project predicting customer churn.
+</p>
 
 ---
 
-### 🌾 AI Crop Recommendation System
+# 🔥 Contribution Streak
 
-Recommendation system for farmers using ML.
+<p align="center">
 
----
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=heartgupta2005-wq&theme=tokyonight&hide_border=true"/>
 
-### 🏛 Civic Accountability Engine
-
-Hackathon Project for Smart India Hackathon.
+</p>
 
 ---
 
-### 💻 LeetCode & DSA
+# 📈 Activity Graph
 
-Consistent problem solving in Java.
+<p align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=heartgupta2005-wq&theme=tokyo-night"/>
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=heartgupta2005-wq&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=heartgupta2005-wq&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heartgupta2005-wq&layout=compact&theme=tokyonight)
+</p>
 
 ---
 
-# 📊 Contribution Graph
+# 🎯 2026 Goals
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=heartgupta2005-wq&theme=tokyo-night)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=heartgupta2005-wq&theme=tokyonight&margin-w=10)
-
----
-
-# 🎯 Current Goals
-
-- 🔥 500+ LeetCode Problems
-- 🚀 Master Spring Boot
-- ☁ Learn AWS
-- 🐳 Docker & Kubernetes
-- 🧠 System Design
-- 💼 Software Engineering Internship
+- ✅ Solve **500+ LeetCode** problems
+- 🚀 Build **5 Production-Ready Spring Boot Projects**
+- ☁ Learn **AWS Cloud**
+- 🐳 Master Docker
+- 📖 Learn System Design
+- 🏆 Crack a Software Engineering Internship
 
 ---
 
-# 🌐 Connect with Me
+# 🌱 Currently Learning
 
-📧 Email: heartgupta2005@gmail.com
+- Spring Security
+- JWT Authentication
+- Microservices
+- Redis
+- Docker
+- AWS
+- CI/CD
+- System Design
 
-💻 GitHub: https://github.com/heartgupta2005-wq
+---
 
-🔗 LinkedIn: *(Add your LinkedIn URL here)*
+# 🤝 Let's Connect
+
+📧 **Email:** heartgupta2005@gmail.com
+
+💻 **GitHub:** https://github.com/heartgupta2005-wq
+
+🔗 **LinkedIn:** *(Add your LinkedIn profile here)*
+
+🧩 **LeetCode:** *(Add your LeetCode profile here)*
+
+---
+
+# 💡 Quote
+
+> *"First, solve the problem. Then, write clean, scalable, and maintainable code."*
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thank you for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
 
 </div>
