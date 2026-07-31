@@ -179,9 +179,9 @@ A growing collection of Data Structures and Algorithms solutions implemented in 
 
 💻 **GitHub:** https://github.com/heartgupta2005-wq
 
-🔗 **LinkedIn:** *(Add your LinkedIn profile here)*
+🔗 **LinkedIn:** https://www.linkedin.com/in/priyanshu-prasad-gupta-285192363
 
-🧩 **LeetCode:** *(Add your LeetCode profile here)*
+🧩 **LeetCode:** https://leetcode.com/u/PRIYANSHU_PRASAD_GUPTA
 
 ---
 
